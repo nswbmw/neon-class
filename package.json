@@ -1,0 +1,19 @@
+{
+  "name": "neon-class",
+  "version": "0.1.0",
+  "description": "A class demo of Neon",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/neon-class"
+  },
+  "author": "nswbmw",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.1.14"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
